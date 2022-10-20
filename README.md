@@ -10,6 +10,7 @@ This project aims to use medical information database provided by PhysioNet to t
 2. [Libraries](#libraries)
 3. [File Descriptions](#files)
 4. [Content](#contents)
+5. [Acknowledgements](#acknowledgements)
 
 ### Project Motivation
 >This project is being done as a part of the Udacity Data Scientist Nanodegree. It involves using Logistic Regression to train a model to classify patients based on the provided data to predict their mortality likelihood.
@@ -40,5 +41,5 @@ The project is organized with the following steps:
     V. Results Evaluation
     VI. Conclusion and Discussion
 
-### Acknowledgements 
+### Acknowledgements <a name="acknowledgements"></a>
 1. Johnson, A., Bulgarelli, L., Pollard, T., Horng, S., Celi, L. A., & Mark, R. (2022). MIMIC-IV Clinical Database Demo (version 1.0). [PhysioNet](https://doi.org/10.13026/jwtp-v091)
