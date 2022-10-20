@@ -42,4 +42,4 @@ The project is organized with the following steps:
     VI. Conclusion and Discussion
 
 ### Acknowledgements <a name="acknowledgements"></a>
-1. Johnson, A., Bulgarelli, L., Pollard, T., Horng, S., Celi, L. A., & Mark, R. (2022). MIMIC-IV Clinical Database Demo (version 1.0). [PhysioNet](https://doi.org/10.13026/jwtp-v091)
+1. Johnson, A., Bulgarelli, L., Pollard, T., Horng, S., Celi, L. A., & Mark, R. (2022). MIMIC-IV Clinical Database Demo (version 1.0). PhysioNet. https://doi.org/10.13026/jwtp-v091
