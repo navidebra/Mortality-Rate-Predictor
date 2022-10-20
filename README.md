@@ -9,7 +9,7 @@ This project aims to use medical information database provided by PhysioNet to t
 1. [Project Motivation](#project-motivation)
 2. [Libraries](#libraries)
 3. [File Descriptions](#files)
-4. [Content](#contents)
+4. [Content](#content)
 5. [Acknowledgements](#acknowledgements)
 
 ### Project Motivation
@@ -30,7 +30,7 @@ This project aims to use medical information database provided by PhysioNet to t
 * data/icustays.csv: CSV file containing Patients ICU Stay Information.
 
 
-### Contents <a name="contents"></a>
+### Content <a name="content"></a>
 
 The project is organized with the following steps:
 
