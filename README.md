@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project aims to use medical information database provided by PhysioNet to try to answer if mortality likelihood can be predicted using such clinical databases using ML Supervised methods.
+This project aims to use medical information database provided by PhysioNet to try to answer if mortality likelihood can be predicted using such clinical databases using ML.
 
 ### Table of Contents
 
