@@ -41,5 +41,9 @@ The project is organized with the following steps:
     V. Results Evaluation
     VI. Conclusion and Discussion
 
+
+* Full report can be found in my blog:
+https://medium.com/@navidebra/hospital-mortality-rate-predictor-383c64e6998
+
 ### References <a name="references"></a>
 1. Johnson, A., Bulgarelli, L., Pollard, T., Horng, S., Celi, L. A., & Mark, R. (2022). MIMIC-IV Clinical Database Demo (version 1.0). PhysioNet. https://doi.org/10.13026/jwtp-v091
